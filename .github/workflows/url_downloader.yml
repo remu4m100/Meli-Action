@@ -1,4 +1,4 @@
-name: Download File By Direct-Link (Meli)
+name: دانلود فایل
 
 on:
   workflow_dispatch:
